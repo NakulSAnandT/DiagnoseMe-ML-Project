@@ -36,5 +36,5 @@ Contributions are welcome! If you have any ideas, improvements, or bug fixes, fe
 
 ## Acknowledgements
 
-- We would like to acknowledge [Kaggle](https://www.kaggle.com) for providing the dataset used in this project. Kaggle is a platform for data science and machine learning enthusiasts, and their contribution to the data science community is invaluable.
+- I would like to acknowledge [Kaggle](https://www.kaggle.com) for providing the dataset used in this project. Kaggle is a platform for data science and machine learning enthusiasts, and their contribution to the data science community is invaluable.
 - The developers and contributors of the libraries and frameworks used in this project, as listed in the requirements.txt file.
