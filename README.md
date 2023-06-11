@@ -4,7 +4,7 @@ DiagnoseMe is a machine learning-based project that aims to predict diseases suc
 
 ## Note: This project is currently under development!!!
 
-Thank you for visiting the DiagnoseMe project repository. Please note that this project is still in development, and the code files have not been added to the repository yet. We are actively working on building the necessary codebase and will update the repository soon.
+Thank you for visiting the DiagnoseMe project repository. Please note that this project is still in development, and the code files have not been added to the repository yet. I am actively working on building the necessary codebase and will update the repository soon.
 
 In the meantime, if you have any questions or would like to contribute to the project, please feel free to reach out or keep an eye on this repository for future updates.
 
