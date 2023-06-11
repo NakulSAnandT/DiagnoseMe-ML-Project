@@ -2,7 +2,7 @@
 
 DiagnoseMe is a machine learning-based project that aims to predict diseases such as diabetes, Parkinson's disease, and heart disease. The project includes a web application where users can choose a specific disease and enter their medical data to obtain predictions.
 
-## Note: This project is currently under development
+## Note: This project is currently under development!!!
 
 Thank you for visiting the DiagnoseMe project repository. Please note that this project is still in development, and the code files have not been added to the repository yet. We are actively working on building the necessary codebase and will update the repository soon.
 
